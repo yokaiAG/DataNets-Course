@@ -11,7 +11,7 @@ H. Pishro-Nik, "Introduction to probability, statistics, and random processes", 
 In case you want to use the slides please contact me at anastasiosgiova@gmail.com
 
 The material to be covered include:
-- Linear Regression
+- Regression (Linear, Polynomial)
 - Mode Selection and Cross-Validation
-- Logistic Regression
+- Classification (KNN, Logistic, LDA, QDA)
 tbc...
