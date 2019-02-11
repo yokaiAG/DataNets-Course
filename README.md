@@ -14,4 +14,5 @@ The material to be covered include:
 - Regression (Linear, Polynomial)
 - Mode Selection and Cross-Validation
 - Classification (KNN, Logistic, LDA, QDA)
+- Feature Selection, Regularisation, Principal Components Regression
 tbc...
