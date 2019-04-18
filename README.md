@@ -11,6 +11,7 @@ H. Pishro-Nik, "Introduction to probability, statistics, and random processes", 
 In case you want to use the slides please contact me at anastasiosgiova@gmail.com
 
 The material to be covered include:
+- Estimation Frequentist (Sample Mean, Variance, MSE, Maximum Likelihood)
 - Regression (Linear, Polynomial)
 - Mode Selection and Cross-Validation
 - Classification (KNN, Logistic, LDA, QDA)
