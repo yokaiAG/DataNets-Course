@@ -12,6 +12,7 @@ In case you want to use the slides please contact me at anastasiosgiova@gmail.co
 
 The material to be covered include:
 - Estimation Frequentist (Sample Mean, Variance, MSE, Maximum Likelihood)
+- Hypothesis Tests (Confidence intervals, Neyman-Pearson, Likelihood Ratio Tests)
 - Regression (Linear, Polynomial)
 - Mode Selection and Cross-Validation
 - Classification (KNN, Logistic, LDA, QDA)
