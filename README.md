@@ -1,8 +1,10 @@
 # DataNets-Course
 This repository includes Lecture Notes and Lab Exercises in Python for a course named "Data Analysis (for Networks)" taught at Sorbonne University. 
-The slides of the Lecture Notes and the Exercises in Python have been developed by me (Anastasios Giovanidis), and closely follow the book:
+The slides of the Lecture Notes and the Exercises in Python have been developed by me (Anastasios Giovanidis), and closely follow the books:
 
 "An Introduction to Statistical Learning (with applications in R)", by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, (Springer) DOI 10.1007/978-1-4614-7138-7, ISSN 1431-875X, ISBN 978-1-4614-7137-0, see also web-link: http://www-bcf.usc.edu/~gareth/ISL/
+
+"Pattern Recognition and machine Learning", by Christopher M. Bishop, Springer 2006, ISBN 978-0387-31073-2
 
 and the online book:
 
