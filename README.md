@@ -11,6 +11,7 @@ H. Pishro-Nik, "Introduction to probability, statistics, and random processes", 
 In case you want to use the slides please contact me at anastasiosgiova@gmail.com
 
 The material to be covered include:
+- Probability Basics (Discrete and continuous distributions, moments, limit theorems)
 - Estimation Frequentist (Sample Mean, Variance, MSE, Maximum Likelihood)
 - Hypothesis Tests (Confidence intervals, Neyman-Pearson, Likelihood Ratio Tests)
 - Bayesian Inference (Bayes Rule, MAP vs ML, conjucate priors, sequential learning)
