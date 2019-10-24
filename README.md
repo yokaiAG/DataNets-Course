@@ -17,9 +17,9 @@ The material to be covered include:
 - (L.2) Estimation Frequentist (Sample Mean, Variance, MSE, Maximum Likelihood)
 - (L.3) Hypothesis Tests (Confidence intervals, Neyman-Pearson, Likelihood Ratio Tests)
 - (L.4) Bayesian Inference (Bayes Rule, MAP vs ML, conjucate priors, sequential learning)
-- (L.5) Regression (Linear, Polynomial)
-- (L.6) Mode Selection and Cross-Validation
-- (L.7) Classification (KNN, Logistic, LDA, QDA)
-- (L.8) Feature Selection, Regularisation, Principal Components Regression
-- (L.9) Tree-based methods (Trees, Random Forest)
+- (L.5 & 6) Regression (Linear, Polynomial)
+- (L.7) Mode Selection and Cross-Validation
+- (L.8) Classification (KNN, Logistic, LDA, QDA)
+- (L.9) Feature Selection, Regularisation, Principal Components Regression
+- (L.10) Tree-based methods (Trees, Random Forest)
 tbc...
