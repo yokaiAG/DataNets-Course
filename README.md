@@ -20,6 +20,6 @@ The material to be covered include:
 - (L.5&6) Regression (Linear, Multi-dimensional)
 - (L.7) Mode Selection and Cross-Validation (Polynomial regression, CV methods)
 - (L.8) Classification (KNN, Logistic, LDA, QDA)
-- (L.9) Feature Selection, Regularisation, Principal Components Regression
+- (L.9) Feature Selection (Regularisation, Principal Components Regression)
 - (L.10) Tree-based methods (Trees, Random Forest)
 tbc...
