@@ -22,4 +22,5 @@ The material to be covered include:
 - (L.8) Classification (KNN, Logistic, LDA, QDA)
 - (L.9) Feature Selection (Regularisation, Principal Components Regression)
 - (L.10) Tree-based methods (Trees, Random Forest)
+- (L.11) Clustering (K-means, Gaussian Mixture Model, Hierarchical, etc.)
 tbc...
