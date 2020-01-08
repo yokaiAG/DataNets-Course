@@ -1,6 +1,6 @@
 # DataNets-Course
 This repository includes Lecture Notes and Lab Exercises in Python for a course named "Data Analysis (for Networks)" taught at Sorbonne University. 
-The slides of the Lecture Notes and the Exercises in Python have been developed by me (Anastasios Giovanidis, with contributions by Max Danish in L.11, L.12 and Lionel Tabourier in L.13, L.14), and closely follow the books:
+The slides of the Lecture Notes and the Exercises in Python have been developed by me (Anastasios Giovanidis, with contributions by Max Danish in L.11, and Lionel Tabourier in L.13, L.14), and closely follow the books:
 
 "An Introduction to Statistical Learning (with applications in R)", by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, (Springer) DOI 10.1007/978-1-4614-7138-7, ISSN 1431-875X, ISBN 978-1-4614-7137-0, see also web-link: http://www-bcf.usc.edu/~gareth/ISL/
 
@@ -23,4 +23,5 @@ The material to be covered include:
 - (L.9) Feature Selection (Regularisation, Principal Components Regression)
 - (L.10) Tree-based methods (Trees, Random Forest)
 - (L.11) Clustering (K-means, Gaussian Mixture Model, Hierarchical, etc.)
+- (L.12) Principal Component Analysis (SVD, Anomaly Detection applications)
 tbc...
