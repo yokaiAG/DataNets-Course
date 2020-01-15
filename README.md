@@ -1,6 +1,6 @@
 # DataNets-Course
 This repository includes Lecture Notes and Lab Exercises in Python for a course named "Data Analysis (for Networks)" taught at Sorbonne University. 
-The slides of the Lecture Notes and the Exercises in Python have been developed by me (Anastasios Giovanidis, with contributions by Max Danish in L.11, and Lionel Tabourier in L.13, L.14), and closely follow the books:
+The slides of the Lecture Notes and the Exercises in Python have been developed by me (Anastasios Giovanidis, with contributions by Maximilien Danisch in L.11, and Lionel Tabourier in L.13, L.14), and closely follow the books:
 
 "An Introduction to Statistical Learning (with applications in R)", by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, (Springer) DOI 10.1007/978-1-4614-7138-7, ISSN 1431-875X, ISBN 978-1-4614-7137-0, see also web-link: http://www-bcf.usc.edu/~gareth/ISL/
 
@@ -9,6 +9,11 @@ The slides of the Lecture Notes and the Exercises in Python have been developed 
 and the online book:
 
 H. Pishro-Nik, "Introduction to probability, statistics, and random processes", available at https://www.probabilitycourse.com, Kappa Research LLC, 2014.
+
+For Clustering (L.11) the material is based on "Introduction to Data Mining", 2nd Edition by Tan, Steinbach, Karpatne, Kumar Chapter 7.
+
+For Time-series (L.13&14) the material is based on the book by "Peter Brockwell and Richard Davis
+Introduction to Time Series and Forecasting", ISBN 0-387-95351-5.
 
 In case you want to use the slides please contact me at anastasiosgiova@gmail.com
 
@@ -24,4 +29,4 @@ The material to be covered include:
 - (L.10) Tree-based methods (Trees, Random Forest)
 - (L.11) Clustering (K-means, Gaussian Mixture Model, Hierarchical, etc.)
 - (L.12) Principal Component Analysis (SVD, Anomaly Detection applications)
-tbc...
+- (L.13&14) Time-Series
