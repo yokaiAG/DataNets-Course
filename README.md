@@ -17,7 +17,7 @@ Introduction to Time Series and Forecasting", ISBN 0-387-95351-5.
 
 In case you want to use the slides please contact me at anastasiosgiova@gmail.com
 
-The material to be covered include:
+The material covered includes:
 - (L.1) Probability Basics (Discrete and continuous distributions, moments, limit theorems)
 - (L.2) Estimation Frequentist (Sample Mean, Variance, MSE, Maximum Likelihood)
 - (L.3) Hypothesis Tests (Confidence intervals, Neyman-Pearson, Likelihood Ratio Tests)
