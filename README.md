@@ -29,4 +29,4 @@ The material covered includes:
 - (L.10) Tree-based methods (Trees, Random Forest)
 - (L.11) Clustering (K-means, Gaussian Mixture Model, Hierarchical, etc.)
 - (L.12) Principal Component Analysis (SVD, Anomaly Detection applications)
-- (L.13&14) Time-Series
+- (L.13&14) Time-Series (Stationarity, Autocorrelation, noise, decomposition, ARMA)
