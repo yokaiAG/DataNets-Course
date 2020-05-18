@@ -30,6 +30,4 @@ The material covered includes:
 - (L.11) Clustering (K-means, Gaussian Mixture Model, Hierarchical, etc.)
 - (L.12) Principal Component Analysis (SVD, Anomaly Detection applications)
 - (L.13&14) Time-Series (Stationarity, Autocorrelation, noise, decomposition, ARMA)
-
-Advanced material:
 - (L.15) Support Vector Machines (classification, regression)
