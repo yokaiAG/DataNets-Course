@@ -25,9 +25,13 @@ The material covered includes:
 - (L.5&6) Regression (Linear, Multi-dimensional)
 - (L.7) Mode Selection and Cross-Validation (Polynomial regression, CV methods)
 - (L.8) Classification (KNN, Logistic, LDA, QDA)
-- (L.9) Feature Selection (Regularisation, Principal Components Regression)
-- (L.10) Tree-based methods (Trees, Random Forest, Boosting)
-- (L.11) Clustering (K-means, Gaussian Mixture Model, Hierarchical, etc.)
-- (L.12) Principal Component Analysis (SVD, Anomaly Detection applications)
-- (L.13&14) Time-Series (Stationarity, Autocorrelation, noise, decomposition, ARMA)
-- (L.15) Support Vector Machines (classification, regression)
+- (L.9) Tree-based methods (Trees, Random Forest, Boosting)
+- (L.10) Clustering (K-means, Gaussian Mixture Model, Hierarchical, etc.)
+- (L.11) Principal Component Analysis (SVD, Anomaly Detection applications)
+- (L.12-13) Time-Series (Stationarity, Autocorrelation, noise, decomposition, ARMA)
+
+Extra material
+
+- (L.i) Feature Selection (Regularisation, Principal Components Regression)
+- (L.ii) Support Vector Machines (classification, regression)
+
