@@ -10,9 +10,9 @@ and the online book:
 
 H. Pishro-Nik, "Introduction to probability, statistics, and random processes", available at https://www.probabilitycourse.com, Kappa Research LLC, 2014.
 
-For Clustering (L.11) the material is based on "Introduction to Data Mining", 2nd Edition by Tan, Steinbach, Karpatne, Kumar Chapter 7.
+For Clustering (L.10) the material is based on "Introduction to Data Mining", 2nd Edition by Tan, Steinbach, Karpatne, Kumar Chapter 7.
 
-For Time-series (L.13&14) the material is based on the book by "Peter Brockwell and Richard Davis
+For Time-series (L.12&13) the material is based on the book by "Peter Brockwell and Richard Davis
 Introduction to Time Series and Forecasting", ISBN 0-387-95351-5.
 
 In case you want to use the slides please contact me at anastasiosgiova@gmail.com
