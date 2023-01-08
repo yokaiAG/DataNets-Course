@@ -10,9 +10,9 @@ and the online book:
 
 H. Pishro-Nik, "Introduction to probability, statistics, and random processes", available at https://www.probabilitycourse.com, Kappa Research LLC, 2014.
 
-For Clustering (L.10) the material is based on "Introduction to Data Mining", 2nd Edition by Tan, Steinbach, Karpatne, Kumar Chapter 7.
+For Clustering (L.11) the material is based on "Introduction to Data Mining", 2nd Edition by Tan, Steinbach, Karpatne, Kumar Chapter 7.
 
-For Time-series (L.12&13) the material is based on the book by "Peter Brockwell and Richard Davis
+For Time-series (L.13&14) the material is based on the book by "Peter Brockwell and Richard Davis
 Introduction to Time Series and Forecasting", ISBN 0-387-95351-5.
 
 In case you want to use the slides please contact me at anastasiosgiova@gmail.com
@@ -20,18 +20,17 @@ In case you want to use the slides please contact me at anastasiosgiova@gmail.co
 The material covered includes:
 - (L.1) Probability Basics (Discrete and continuous distributions, moments, limit theorems)
 - (L.2) Estimation Frequentist (Sample Mean, Variance, MSE, Maximum Likelihood)
-- (L.3) Hypothesis Tests (Confidence intervals, Neyman-Pearson, Likelihood Ratio Tests)
-- (L.4) Bayesian Inference (Bayes Rule, MAP vs ML, conjucate priors, sequential learning)
-- (L.5&6) Regression (Linear, Multi-dimensional)
-- (L.7) Mode Selection and Cross-Validation (Polynomial regression, CV methods)
-- (L.8) Classification (KNN, Logistic, LDA, QDA)
+- (L.3) Bayesian Inference (Bayes Rule, MAP vs ML, conjucate priors, sequential learning)
+- (L.4a) Hypothesis Tests (Confidence intervals, Neyman-Pearson, Likelihood Ratio Tests)
+- (L.4b&5) Regression (Linear, Multi-dimensional)
+- (L.6) Mode Selection and Cross-Validation (Polynomial regression, CV methods)
+- (L.7-8) Classification (KNN, Logistic, LDA, QDA, Naive Bayes)
 - (L.9) Tree-based methods (Trees, Random Forest, Boosting)
 - (L.10) Clustering (K-means, Gaussian Mixture Model, Hierarchical, etc.)
 - (L.11) Principal Component Analysis (SVD, Anomaly Detection applications)
-- (L.12-13) Time-Series (Stationarity, Autocorrelation, noise, decomposition, ARMA)
+- (L.12) Neural Networks (Stochastic Gradient Descent, Perceptron, Deep Neural Networks, backprop)
+- (L.13-14) Time-Series (Stationarity, Autocorrelation, noise, decomposition, ARMA)
+- (L.15) Support Vector Machines (classification, regression)
+- (L.16) Feature Selection (Regularisation, Principal Components Regression)
 
-Extra material
-
-- (L.i) Feature Selection (Regularisation, Principal Components Regression)
-- (L.ii) Support Vector Machines (classification, regression)
 
