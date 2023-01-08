@@ -31,6 +31,4 @@ The material covered includes:
 - (L.12) Neural Networks (Stochastic Gradient Descent, Perceptron, Deep Neural Networks, backprop)
 - (L.13-14) Time-Series (Stationarity, Autocorrelation, noise, decomposition, ARMA)
 - (L.15) Support Vector Machines (classification, regression)
-- (L.16) Feature Selection (Regularisation, Principal Components Regression)
-
 
